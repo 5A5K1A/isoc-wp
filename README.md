@@ -4,13 +4,13 @@
 Internet Society WordPress Theme
 ================================
 
-This theme is designed to be used by Internet Society (ISOC) chapters and other ISOC-related entities to create WordPress sites using the same general design as the 2017 www.internetsociety.org site.
+This theme is designed to be used by Internet Society (ISOC) chapters and other ISOC-related entities to create WordPress sites using the same general design as the 2017 www.internetsociety.org website.
 
 More information - and the theme files themselves - can be found at:
 
 > <https://github.com/occhiobv/isoc-wp/>
 
-**IMPORTANT**: If you encounter any issues with using this theme - or have suggestions for changes, please check the issue tracker and raise a new issue if necessary:
+**IMPORTANT**: If you'd encounter issues using this theme (or have suggestions for changes), please check the issue tracker and raise a new issue if necessary:
 
 > <https://github.com/occhiobv/isoc-wp/issues>
 
@@ -24,22 +24,23 @@ If you would like to see the theme in action, the following sites use it:
 * [isoc-es.org](http://www.isoc-es.org/) (ISOC Chapter for Spain)
 * [coisoc.org](http://www.coisoc.org/) (ISOC Chapter in Colorado, USA)
 
-If you use the theme and would like to have your site listed as an example,
-please email york@isoc.org.
+If you are using the theme and would like to have your site listed as an example, please email york@isoc.org.
 
 ------------------------------------------------------------------------
 
-This ReadMe document covers the following:
+Outline
+====================
 
-[1. Required plugins](#01-requiredplugins)
-[2. Installation](#02-installation)
-[3. Automatic Updates](#03-auomaticupdates) ??
-[4. Initial Configuration](#04-initialconfig)
-[5. Configuration](#05-config)
-[6. Using the Events Manager Plugin](#06-eventsmanagerplugin)
-[7. Using a Child Theme For Customization](#07-childtheme)
-[8. Support / Questions](#08-support)
-[9. Contributors and Contributing Changes](#09-contribute)
+This ReadMe document covers the following:
+> 1. [Required plugins](#01-requiredplugins)
+> 2. [Installation](#02-installation)
+> 3. [Automatic Updates](#03-auomaticupdates) ??
+> 4. [Initial Configuration](#04-initialconfig)
+> 5. [Configuration](#05-config)
+> 6. [Using the Events Manager Plugin](#06-eventsmanagerplugin)
+> 7. [Using a Child Theme For Customization](#07-childtheme)
+> 8. [Support / Questions](#08-support)
+> 9. [Contributors and Contributing Changes](#09-contribute)
 
 ------------------------------------------------------------------------
 
@@ -48,17 +49,14 @@ Required plugins
 ====================
 
 The instructions for this theme assume that the following plugin is installed and activated:
-
 * [Category Posts Widget](http://wordpress.org/extend/plugins/category-posts/)
 
-It is not a hard requirement for use of the theme, but allows for the creation of various widgets relating to categories.
+It is not a hard requirement for using the theme, but it allows for the creation of various widgets relating to categories.
 
 Additionally, if you are not already using a plugin for managing events, the theme has been tested with this plugin:
-
 * [Events Manager](http://wordpress.org/extend/plugins/events-manager/)
 
 Similarly, if you would like to have "breadcrumbs" at the top of your pages that allow for navigation within your site, this theme has been tested with:
-
 * [Breadcrumbs NavXT](http://wordpress.org/extend/plugins/breadcrumb-navxt/)
 
 More information about using the Events Manager and Breadcrumbs NavXT is provided later in this file.
