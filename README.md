@@ -29,7 +29,7 @@ If you are using the theme and would like to have your site listed as an example
 ------------------------------------------------------------------------
 
 Outline
-====================
+------------------------------
 
 This ReadMe document covers the following:
 > 1. [Required plugins](#01-requiredplugins)
@@ -46,7 +46,7 @@ This ReadMe document covers the following:
 
 <a name="01-requiredplugins"></a>
 Required plugins
-====================
+------------------------------
 
 The instructions for this theme assume that the following plugin is installed and activated:
 * [Category Posts Widget](http://wordpress.org/extend/plugins/category-posts/)
@@ -65,7 +65,7 @@ More information about using the Events Manager and Breadcrumbs NavXT is provide
 
 <a name="02-installation"></a>
 Installation
-================
+------------------------------
 
 The initial installation of the theme involves the following steps:
 
@@ -81,9 +81,7 @@ To begin, you need to download a ZIP (or tar.gz) file for the latest version of 
 Next, in your WordPress admin area (or Network Admin if you are using WordPress MultiSite) do the following:
 
 1. Go into the "Themes" panel, choose "Add New" and then choose the "Upload" link.
-
 2. Upload the ZIP file you downloaded.
-
 3. Activate the theme for your site.
 
 Next you will want to go through the steps in the next sections on configuration to make any changes, update the home page slides, etc.
@@ -92,21 +90,19 @@ Next you will want to go through the steps in the next sections on configuration
 
 <a name="04-initialconfig"></a>
 Initial Configuration
-=========================
+------------------------------
 
 Before you start using the theme, you need to perform these steps.
 
 All of the steps assume you are logged into WordPress and have access to the administration panels of your site.
 
-Set the Site Title and Tagline
-------------------------------
+### Set the Site Title and Tagline
 
 1. Go to Settings -> General
 2. Set the Site Title and Tagline
 3. Save the settings.
 
-Add Three Menus
----------------
+### Add Three Menus
 
 1. Go to Appearance -> Menus
 2. If you do not already have the following menus, you need to click the "+" tab to create menus with these exact names:
@@ -120,8 +116,7 @@ Add Three Menus
 
  Alternatively you can add Categories to the menu using the Categories box farther down the page.
 
-Associate Menus with Theme Locations
-------------------------------------
+### Associate Menus with Theme Locations
 
 1. On the Appearance -> Menus page, there is a box in the upper left labeled "Theme Locations". You are going to assign your three new menus to these locations.
 2. Under "Primary Navigation", choose "Navigation".
@@ -130,8 +125,7 @@ Associate Menus with Theme Locations
 5. Press Save.
 
 
-Adding Images To The Home Page Slideshow
-----------------------------------------
+### Adding Images To The Home Page Slideshow
 
 1. From the left-hand column, find the Homepage Slides section and click Homepage Slides or Add New
 2. Add title
@@ -143,8 +137,7 @@ Adding Images To The Home Page Slideshow
 5. Enter "Additional Information", Sub-title (if applicable), Read More Link (URL), Read More text
 6. Save or Publish Changes
 
-Create Necessary Widgets
-------------------------
+### Create Necessary Widgets
 
 The theme is designed to use a number of widgets. To create these widgets, go to the *Appearance* section and choose *Widgets*.
 
@@ -159,7 +152,7 @@ This will give you a three-column layout with smaller columns on the left and ri
 
 You can add whatever widgets you want to any of the three widget areas.
 
-### "Follow Us" Social Media Icons On Home Page
+#### "Follow Us" Social Media Icons On Home Page
 
 1. Open the *Home Slideshow Widget Area*.
 2. Drag and drop the *Text Widget*.
@@ -212,7 +205,7 @@ Multi-color set set:
 * ![Twitter](https://raw.github.com/occhiobv/isoc-wp/master/images/icon_twitter_lg.png)```images/icon_twitter_lg.png```
 * ![YouTube](https://raw.github.com/occhiobv/isoc-wp/master/images/icon_youtube_lg.png)```images/icon_youtube_lg.png```
 
-### "Follow Us" Social Media Icons On Secondary Pages
+#### "Follow Us" Social Media Icons On Secondary Pages
 
 1. Open the Secondary Widget Area.
 2. Drag and drop the *Text Widget*.
@@ -224,7 +217,7 @@ Multi-color set set:
 
 5. Save the widget.
 
-### Adding Additional Widgets to the Home Page
+#### Adding Additional Widgets to the Home Page
 
 Two additional boxes are available to display content on top of the images on the home page. They are widget areas:
 
@@ -233,25 +226,24 @@ Two additional boxes are available to display content on top of the images on th
 
 You may add one widget (such as the *Text Widget*) to each of these areas to display additional content.
 
-### Adding Items to Left Sidebar on Internal Pages
+#### Adding Items to Left Sidebar on Internal Pages
 
 1. Find the Primary Widget Area.
 2. Drag and drop Text or other widget types and make appropriate changes.
 
-### Adding Items To Right Sidebar On Internal Pages
+#### Adding Items To Right Sidebar On Internal Pages
 
 1.	Find the Secondary Widget Area2
 2.	Drag and drop Text or other widget types and make appropriate changes.
 
-### Footer Widget
+#### Footer Widget
 
 1. Open the *Footer Widget Area*
 2. Drag and drop the *Text Widget*
 3. Enter appropriate text (copyright, email link, address, etc.). HTML is allowed.
 4. Save the widget.
 
-Adding a "Blog" Section
------------------------
+### Adding a "Blog" Section
 
 If you would like to add a "blog" section to your site that lists all your posts, you can follow these steps. Note that this is _not_ required and can also be done at any later time. As noted in the steps, it does not have to be called "Blog" but could use another name instead.
 
@@ -276,7 +268,7 @@ Now you can go into Appearance -> Menus and add the Blog page to, for instance, 
 
 <a name="05-config"></a>
 Configuration
-=============
+------------------------------
 
 This section includes changes that you may want to make on an ongoing basis during the regular usage of your theme.
 
@@ -325,7 +317,7 @@ in the sidebar. When you are done you can click "Screen Options" again to hide t
 
 <a name="01-requiredplugins"></a>
 Example: Creating Additional Categories and Widgets
-===================================================
+------------------------------
 
 You are free to create whatever widgets and categories you wish, but if you would like an example, here is how you can create a "News" widget and an "Issues Spotlight" widget and update those widgets accordingly.
 
